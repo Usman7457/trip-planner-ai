@@ -1,0 +1,13 @@
+.selected-label {
+    background-color: #CFFC85;
+    /* Green background color */
+    border-color    : #A5D6A7;
+    /* Adjusted border color */
+}
+
+.selected-label:hover {
+    background-color: #A5D6A7;
+    /* Darker green on hover */
+}
+
+;

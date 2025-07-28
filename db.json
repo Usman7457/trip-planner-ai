@@ -1,0 +1,543 @@
+{
+  "community-trips": [
+    {
+      "id": "1",
+      "tripName": "Riyadh, Saudi Arabia",
+      "tripImage": "/img/riyadh.png",
+      "tripUrl": "riyadh",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-1.png",
+      "days": "8",
+      "totalLikes": "30"
+    },
+    {
+      "id": "2",
+      "tripName": "Dammam, Saudi Arabia",
+      "tripImage": "/img/dammam.jpg",
+      "tripUrl": "dammam",
+      "tripDescription": "Join me on an exciting 8-day journey through São Paulo, Brazil's bustling metropolis. Discover hidden gems, indulge in delicious cuisine, and immerse yourself in the rich culture of this vibrant city.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-2.png",
+      "days": "8",
+      "totalLikes": "18"
+    },
+    {
+      "id": "3",
+      "tripName": "Taif, Saudi Arabia",
+      "tripImage": "/img/taif.jpg",
+      "tripUrl": "taif",
+      "tripDescription": "Experience the best of Los Angeles in just 3 days! Explore iconic landmarks like Griffith Park, Hollywood Walk of Fame, and Santa Monica Pier. Get ready for thrilling rides at Universal Studios Hollywood and don't miss the chance to see the famous Hollywood Sign.",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-3.png",
+      "days": "3",
+      "totalLikes": "16"
+    },
+    {
+      "id": "4",
+      "tripName": "Jeddah, Saudi Arabia",
+      "tripImage": "/img/jeddah.jpg",
+      "tripUrl": "jeddah",
+      "tripDescription": "Join me on an exciting 10-day journey through Tokyo, where we'll visit iconic landmarks, indulge in delicious cuisine, and immerse ourselves in the vibrant culture of Japan's capital city.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-4.jpeg",
+      "days": "10",
+      "totalLikes": "10"
+    },
+    {
+      "id": "5",
+      "tripName": "Tabuk, Saudi Arabia",
+      "tripImage": "/img/tabuk.jpg",
+      "tripUrl": "tabuk",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-5.jpeg",
+      "days": "7",
+      "totalLikes": "8"
+    },
+    {
+      "id": "6",
+      "tripName": "Hail, Saudi Arabia",
+      "tripImage": "/img/hail.jpg",
+      "tripUrl": "hail",
+      "tripDescription": "Embark on an unforgettable journey through Budapest, a city that seamlessly blends history, culture, and vibrant energy. From relaxing in the Széchenyi Thermal Bath to marveling at the grandeur of the Hungarian Parliament Building, each day promises new adventures and discoveries. Get ready to immerse yourself in the charm of the Pearl of the Danube!",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-6.png",
+      "days": "4",
+      "totalLikes": "7"
+    },
+    {
+      "id": "7",
+      "tripName": "Al Khobar, Saudi Arabia",
+      "tripImage": "/img/al-khobar.jpg",
+      "tripUrl": "al-khobar",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-7.png",
+      "days": "3",
+      "totalLikes": "7"
+    },
+    {
+      "id": "8",
+      "tripName": "Buraydah, Saudi Arabia",
+      "tripImage": "/img/buraydah.jpg",
+      "tripUrl": "buraydah",
+      "tripDescription": "Join me on a thrilling 3-day adventure in Rome, where we'll explore iconic landmarks like the Colosseum and Pantheon, indulge in delicious Italian cuisine, and immerse ourselves in the rich history and culture of this magnificent city.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-8.png",
+      "days": "5",
+      "totalLikes": "5"
+    },
+    {
+      "id": "9",
+      "tripName": "Al Jubail, Saudi Arabia",
+      "tripImage": "/img/al-jubail.jpg",
+      "tripUrl": "al-jubail",
+      "tripDescription": "Embark on a thrilling 5-day journey through the enchanting city of Oaxaca, Mexico. Immerse yourself in the rich culture, explore ancient ruins, indulge in delicious cuisine, and experience the vibrant atmosphere of this captivating destination.",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-9.png",
+      "days": "7",
+      "totalLikes": "18"
+    },
+    {
+      "id": "10",
+      "tripName": "Abha, Saudi Arabia",
+      "tripImage": "/img/abha.jpg",
+      "tripUrl": "abha",
+      "tripDescription": "Embark on a thrilling 7-day adventure in Prague, Czech Republic. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich history and culture of this enchanting city.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-10.jpeg",
+      "days": "6",
+      "totalLikes": "4"
+    },
+    {
+      "id": "11",
+      "tripName": "Al Bahah, Saudi Arabia",
+      "tripImage": "/img/al-bahah.jpg",
+      "tripUrl": "al-bahah",
+      "tripDescription": "Join me on a 6-day adventure in Cartagena, Colombia, as I explore its rich history and soak up the sun on its beautiful beaches. From the iconic Monumento India Catalina to the historic Castle San Felipe de Barajas, this itinerary is packed with fascinating landmarks and breathtaking views. Don't miss out on the vibrant Plaza de Santo Domingo and the relaxing Playa De Bocagrande. Get ready for an unforgettable trip!",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-11.jpeg",
+      "days": "6",
+      "totalLikes": "4"
+    },
+    {
+      "id": "12",
+      "tripName": "Yanbu, Saudi Arabia",
+      "tripImage": "/img/yanbu.png",
+      "tripUrl": "yanbu",
+      "tripDescription": "Join me on a 6-day adventure in Cartagena, Colombia, as I explore its rich history and soak up the sun on its beautiful beaches. From the iconic Monumento India Catalina to the historic Castle San Felipe de Barajas, this itinerary is packed with fascinating landmarks and breathtaking views. Don't miss out on the vibrant Plaza de Santo Domingo and the relaxing Playa De Bocagrande. Get ready for an unforgettable trip!",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-12.png",
+      "days": "6",
+      "totalLikes": "10"
+    }
+  ],
+  "users": [
+    {
+      "id": "78ca",
+      "email": "usmanghani0057457@gmail.com",
+      "password": "$2a$10$XVWfm9vE53sUn5iK.Hwe6uXRbAdFOPUBkoAF1z1LzodWTEmSd6Sl6",
+      "name": "Sheikh Muhammad Usman Ghani",
+      "role": "ftp-admin"
+    },
+    {
+      "id": "3698",
+      "email": "maheen290199@gmail.com",
+      "password": "$2a$10$BlIknPX.oVMieYQvGwndTejrcljIa4ite0O6jvJypg8kawoVdZ8.W",
+      "name": "Maheen Usman",
+      "role": "visitor"
+    },
+    {
+      "id": "8227",
+      "email": "sardar@gmail.com",
+      "password": "$2a$10$zUjsdvsHdEhlpNonnUHCDeHKjkFLY9rripOcfrzD0vhGOf29N9Ml.",
+      "name": "Sardar Nazakat Hussain",
+      "role": "visitor"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "1",
+      "countryName": "Saudi Arabia",
+      "cityName": "Mecca, Saudi Arabia",
+      "imageUrl": "/img/makkah-hotel.jpg",
+      "cityUrl": "mecca",
+      "trips": [
+        {
+          "tripId": "1",
+          "tripName": "9 Days In Mecca",
+          "tripUrl": "nine-days-in-mecca"
+        },
+        {
+          "tripId": "2",
+          "tripName": "Journey to Sacred Heart Mecca",
+          "tripUrl": "journey-to-sacred-heart-mecca"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "countryName": "Saudi Arabia",
+      "cityName": "Medina, Saudi Arabia",
+      "imageUrl": "/img/tunis-madinah.jpg",
+      "cityUrl": "medina",
+      "trips": [
+        {
+          "tripId": "1",
+          "tripName": "9 Days In Medina",
+          "tripUrl": "nine-days-in-medina"
+        },
+        {
+          "tripId": "2",
+          "tripName": "Journey to Sacred Heart Medina",
+          "tripUrl": "journey-to-sacred-heart-medina"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "countryName": "Saudi Arabia",
+      "cityName": "Riyadh, Saudi Arabia",
+      "imageUrl": "/img/riyadh.avif",
+      "cityUrl": "riyadh"
+    },
+    {
+      "id": "4",
+      "countryName": "Saudi Arabia",
+      "cityName": "Dammam, Saudi Arabia",
+      "imageUrl": "/img/home-dammam.jpg",
+      "cityUrl": "dammam"
+    },
+    {
+      "id": "5",
+      "countryName": "Saudi Arabia",
+      "cityName": "Taif, Saudi Arabia",
+      "imageUrl": "/img/taif-1.jpg",
+      "cityUrl": "taif"
+    },
+    {
+      "id": "6",
+      "countryName": "Saudi Arabia",
+      "cityName": "Jeddah, Saudi Arabia",
+      "imageUrl": "/img/jeddah.avif",
+      "cityUrl": "jeddah"
+    },
+    {
+      "id": "7",
+      "countryName": "Saudi Arabia",
+      "cityName": "Tabuk, Saudi Arabia",
+      "imageUrl": "/img/tabuk-1.jpg",
+      "cityUrl": "tabuk"
+    },
+    {
+      "id": "8",
+      "countryName": "Saudi Arabia",
+      "cityName": "Hail, Saudi Arabia",
+      "imageUrl": "/img/hail.jpeg",
+      "cityUrl": "hail"
+    },
+    {
+      "id": "9",
+      "countryName": "Saudi Arabia",
+      "cityName": "Al Khobar, Saudi Arabia",
+      "imageUrl": "/img/al-khobar.webp",
+      "cityUrl": "al-khobar"
+    },
+    {
+      "id": "10",
+      "countryName": "Saudi Arabia",
+      "cityName": "Buraydah, Saudi Arabia",
+      "imageUrl": "/img/buraydah-1.jpg",
+      "cityUrl": "buraydah"
+    },
+    {
+      "id": "11",
+      "countryName": "Saudi Arabia",
+      "cityName": "Al Jubail, Saudi Arabia",
+      "imageUrl": "/img/al-jubail.avif",
+      "cityUrl": "al-jubail"
+    },
+    {
+      "id": "12",
+      "countryName": "Saudi Arabia",
+      "cityName": "Abha, Saudi Arabia",
+      "imageUrl": "/img/abha-1.jpg",
+      "cityUrl": "abha"
+    },
+    {
+      "id": "13",
+      "countryName": "Saudi Arabia",
+      "cityName": "Al Bahah, Saudi Arabia",
+      "imageUrl": "/img/al-bahah.jpg",
+      "cityUrl": "al-bahah"
+    },
+    {
+      "id": "14",
+      "countryName": "Saudi Arabia",
+      "cityName": "Yanbu, Saudi Arabia",
+      "imageUrl": "/img/yanbu.jpg",
+      "cityUrl": "yanbu"
+    },
+    {
+      "id": "15",
+      "countryName": "Saudi Arabia",
+      "cityName": "Al Qatif, Saudi Arabia",
+      "imageUrl": "/img/al-qatif.jpg",
+      "cityUrl": "al-qatif"
+    },
+    {
+      "id": "16",
+      "countryName": "Saudi Arabia",
+      "cityName": "Khamis Mushait, Saudi Arabia",
+      "imageUrl": "/img/khamis-mushait.webp",
+      "cityUrl": "khamis-mushait"
+    },
+    {
+      "id": "17",
+      "countryName": "Saudi Arabia",
+      "cityName": "Jazan, Saudi Arabia",
+      "imageUrl": "/img/jazan.jpg",
+      "cityUrl": "jazan"
+    },
+    {
+      "id": "18",
+      "countryName": "Saudi Arabia",
+      "cityName": "Aran, Saudi Arabia",
+      "imageUrl": "/img/aran.webp",
+      "cityUrl": "aran"
+    },
+    {
+      "id": "19",
+      "countryName": "Saudi Arabia",
+      "cityName": "Bisha, Saudi Arabia",
+      "imageUrl": "/img/bisha.jpeg",
+      "cityUrl": "bisha"
+    },
+    {
+      "id": "20",
+      "countryName": "Saudi Arabia",
+      "cityName": "AlUla, Saudi Arabia",
+      "imageUrl": "/img/alula.webp",
+      "cityUrl": "alula"
+    }
+  ],
+  "saudi-trips": [
+    {
+      "id": "1",
+      "cityName": "Jeddah",
+      "cityImage": "/img/jeddah-trip.jpg",
+      "cityMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d950648.044317132!2d38.55161158882568!3d21.45010978671997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xe059579737b118db!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2s!4v1721990180639!5m2!1sen!2s&z=14",
+      "accommodation": [
+        {
+          "accommodationId": "1",
+          "accommodationName": "MovenPick Resort Al Nawras Jeddah",
+          "accommodationUrl": "movenpick-resort-al-nawras-jeddah",
+          "accommodationImage1": "/img/accommodation-1.jpeg",
+          "accommodationDetail": "Mövenpick Resort Al Nawras appears as an island that stands on gleaming waters due to the reflecting sunlight by day, and by the moonlight at night. Each residential villa has a private garden and private pool, with total privacy, as well as a prime view of the Red Sea."
+        },
+        {
+          "accommodationId": "2",
+          "accommodationName": "Galleria Hotel",
+          "accommodationUrl": "galleria-hotel",
+          "accommodationImage1": "/img/accommodation-2.jpeg",
+          "accommodationDetail": "In the heart of Jeddah, you can immerse yourself in the refreshing swimming pool at Elaf Galleria Hotel, which offers luxurious accommodations amidst an architectural masterpiece."
+        },
+        {
+          "accommodationId": "3",
+          "accommodationName": "Assila",
+          "accommodationUrl": "Assila",
+          "accommodationImage1": "/img/accommodation-3.jpeg",
+          "accommodationDetail": "The opportunity to relax in luxury awaits you at Assila Hotel in Jeddah, where you can enjoy your special time for fun-filled days"
+        },
+        {
+          "accommodationId": "4",
+          "accommodationName": "Rosewood Hotel",
+          "accommodationUrl": "rosewood-hotel",
+          "accommodationImage1": "/img/accommodation-4.jpeg",
+          "accommodationDetail": "Experience the pleasure of waking up to a direct view of the Red Sea during your stay at the Rosewood Hotel Jeddah, where you are just a few steps away from enjoying the refreshing sea breeze."
+        },
+        {
+          "accommodationId": "5",
+          "accommodationName": "Qasr Alshraq",
+          "accommodationUrl": "qasr-alshraq",
+          "accommodationImage1": "/img/accommodation-5.jpeg",
+          "accommodationDetail": "Arrive to elegance under a three-story Swarovski chandelier and wake up to panoramic views of Jeddah. Adorned with gold accents, Italian furnishings and glistening crystal, our palatial hotel is an oasis on the Red Sea."
+        }
+      ],
+      "events": [
+        {
+          "eventId": "1",
+          "eventName": "Event 1",
+          "eventUrl": "event-1",
+          "eventImage1": "/img/event-1.jpeg",
+          "eventDescription": "Event Description Here"
+        }
+      ],
+      "experiences": [
+        {
+          "experienceId": "1",
+          "experienceName": "One Day Sightseeing Tour In Jeddah",
+          "experienceUrl": "one-day-sightseeing-tour-in-jeddah",
+          "experienceImage1": "/img/experiences-1.jpeg",
+          "experienceDescription": "Explore the vibrant energy of New Jeddah Corniche and immerse yourself in the rich history of Albalad's ancient streets, old houses, and iconic landmarks. Highlights Experience the vibrant energy of New Jeddah Corniche and marvel at the enchanting Fountain Show. Immerse yourself in Jeddah's rich history as you explore Albalad's ancient streets, old houses, and iconic landmarks."
+        },
+        {
+          "experienceId": "2",
+          "experienceName": "Red Sea Diving Adventure",
+          "experienceUrl": "red-sea-diving-adventure",
+          "experienceImage1": "/img/experiences-2.jpeg",
+          "experienceDescription": "It is said that the Red Sea got its name due to the abundance of colorful coral reefs, and this is true! There is a hidden and enchanting world in its depths that you won't find elsewhere. Come wit..."
+        },
+        {
+          "experienceId": "3",
+          "experienceName": "Historical Jeddah Walking Tour",
+          "experienceUrl": "historical-jeddah-walking-tour",
+          "experienceImage1": "/img/experiences-3.jpeg",
+          "experienceDescription": "Let us take you on a journey through history and culture in a historical tour of Jeddah. You will visit the most beautiful and oldest archaeological and architectural landmarks in the city, and learn ...More Details"
+        },
+        {
+          "experienceId": "4",
+          "experienceName": "jeddah 4x4 Desert Safari With Dinner",
+          "experienceUrl": "jeddah-4x4-desert-safari-with-dinner",
+          "experienceImage1": "/img/experiences-4.jpg",
+          "experienceDescription": "A We will explore the Saudi desert that surrounds the city of Jeddah. We will board our 4x4, and drive you to impressive sand dunes near Jeddah. followed, and of course some dune bashing with our expert Bedouin drivers. After these activities, we will have a relaxing time between the dunes where we serve a nice meal, water, juices, and coffee & tea. We will then return back to Jeddah after an hour approximately. Start Time : 16:00H End Time : 21:00H"
+        },
+        {
+          "experienceId": "5",
+          "experienceName": "Jeddah City Tour With Lunch: Explore Culture, Art & History",
+          "experienceUrl": "jeddah-city-tour-with-lunch-explore-culture-art-and-history",
+          "experienceImage1": "/img/experiences-5.jpg",
+          "experienceDescription": "Visit Al Tayebat International City A tour through history in the Al Tayebat International City for Science and Knowledge, A landmark that embodies human civilization through different eras and tells the pioneering historical era of the Kingdom of Saudi Arabia. It includes three museums: the Al Tayebat International for Human Civilizations, the Home Arts Museum, and the Abdul Raouf Khalil Museum. We enjoy exploring its lands because of the national culture and historical legacy of the Saudi, Islamic and international civilization. Visit Obhur Beach Enjoying a tour on Obhur Beach between white sands, clear waters, and unique marine life with water full of life, And coral reefs with bright colors, And nature of enchanting beauty. Elements that make Obhur Coast a natural wonder among the most prominent tourist sites in Saudi. Cruise A cruise to explore the beauty of the Red Sea in a blend of luxury, culture, and summer relaxation. And the endless blue of the sky outside. We explore it to a captivating world of picturesque coral islands with white sand and sparkling waters of coastal fish Lunch Enjoy an authentic traditional Saudi meal, served with high quality Visit the waterfront A tour to enjoy the magic of sunset and the picturesque beauty of the Red Sea, exploring the Jeddah Corniche, with its long golden sandy beaches And its picturesque passages, One of the most prominent treasures of the city and its magnificent landmarks Visit Al Rahma Mosque An exploration of the architecture where the architecture of Islamic arts blended between the modern and the old in the Al Rahma Mosque (the Floating Mosque), It is considered the first of its kind in the world that was built on the surface of the sea, For more than three decades, To remain tall with its attractive circular shape and outer domes Visit Jeddah Sculpture Museum An enjoyable tour through which we explore the first open museum for aesthetic models in the Corniche, as it is one of the largest open museums in the world and includes the most diverse collections of public art in the world, as the range of works extends from traditional Arab designs to abstract art and monuments Visit Jeddah Al-Balad We stand on the edge of the majestic Gate of Mecca, We contemplate the features of the renewal and developmental architecture of its monumental walls that extend to the Middle Ages, And through it, we enjoy exploring its majestic houses, designed with a very distinctive and beautiful structure. Where it was built using coral reefs extracted from the depths of the Red Sea, And the bright balconies of exquisite colors known as mashrabiyat. End of the program"
+        }
+      ],
+      "shopping": [
+        {
+          "shoppingId": "1",
+          "shoppingName": "Khayyat Mall",
+          "shoppingUrl": "khayyat-mall",
+          "shoppingImage1": "/img/shopping-1.jpeg",
+          "shoppingDescription": "El Khayyat Center considered to be one of most appealing destination for Tahlia street Visitors. El Khayyat Center was established in 1992.One of the first Centers of Jeddah for Luxury Fashion Brands."
+        },
+        {
+          "shoppingId": "2",
+          "shoppingName": "Jeddah Park",
+          "shoppingUrl": "jeddah-park",
+          "shoppingImage1": "/img/shopping-2.jpg",
+          "shoppingDescription": "Jeddah Park is one of the newest and largest shopping and entertainment centers in the city, covering an area of 500,000 square meters. At the entrance, a dancing fountain greets you to this sumptuously designed building composed of four floors, hotel towers, and the first museum of Islamic art in the Kingdom of Saudi."
+        },
+        {
+          "shoppingId": "3",
+          "shoppingName": "Hub 27.1",
+          "shoppingUrl": "hub-27.1",
+          "shoppingImage1": "/img/shopping-3.jpg",
+          "shoppingDescription": "Hub 27.1 stands out from other stores by offering an exceptional selection of pieces, from trendy hoodies with independent designs to bold hats, bags and accessories, as well as the finest jewellery and famous perfumes; It brings together many local and international brands."
+        },
+        {
+          "shoppingId": "4",
+          "shoppingName": "Le Prestige Mall",
+          "shoppingUrl": "le-prestige-mall",
+          "shoppingImage1": "/img/shopping-4.jpg",
+          "shoppingDescription": "Le Prestige Mall is one of the most beautiful luxurious destinations in Jeddah. This spectacularly designed large mall is the perfect choice for wandering around its indoor vast spaces, sipping specialty coffee, and feasting on the most delicious international extravagant restaurants."
+        },
+        {
+          "shoppingId": "5",
+          "shoppingName": "Red Sea Mall",
+          "shoppingUrl": "red-sea-mall",
+          "shoppingImage1": "/img/shopping-5.jpeg",
+          "shoppingDescription": "Red Sea Mall is one of the biggest shopping centers at Jeddah it is located at the northern suburbs on King Abdulaziz Road. The mall has 242,200 square meters built area and 144,000 square meters GLA."
+        }
+      ],
+      "restaurants": [
+        {
+          "restaurantId": "1",
+          "restaurantName": "Baco",
+          "restaurantUrl": "baco",
+          "restaurantImage1": "/img/restraunt-1.jpeg",
+          "restaurantDescription": "Baco is a local concept that tells the story of Asian-Latin American Fusion Tapas told through Baos and Tacos with a unique dining experience and vibes.We celebrate the beauty of multi-cultural."
+        },
+        {
+          "restaurantId": "2",
+          "restaurantName": "kuuru",
+          "restaurantUrl": "kuuru",
+          "restaurantImage1": "/img/restraunts-2.jpeg",
+          "restaurantDescription": "Kuuru is where Japanese and Peruvian cuisines meld to form an authentic new culinary experience known as Nikkei cooking. Theatrical, colourful and dramatically delicious, inspired by tradition."
+        },
+        {
+          "restaurantId": "3",
+          "restaurantName": "Twina (Sarl)",
+          "restaurantUrl": "twina-sarl",
+          "restaurantImage1": "/img/restraunts-3.jpeg",
+          "restaurantDescription": "At Twina, our story began with a great desire to redefine the fish recreational parks turning it into a specialized resort providing seafood prepared according to inherited methods as were preserved."
+        },
+        {
+          "restaurantId": "4",
+          "restaurantName": "Bharat",
+          "restaurantUrl": "bharat",
+          "restaurantImage1": "/img/restraunts-4.jpeg",
+          "restaurantDescription": "Indian Master Chefs with many years of experience lead a team of specialist chefs at Bharat Indian Restaurant where the true fascinating flavors and the intriguing aromas of Indian cuisine."
+        },
+        {
+          "restaurantId": "5",
+          "restaurantName": "Toki",
+          "restaurantUrl": "toki",
+          "restaurantImage1": "/img/restraunts-5.jpeg",
+          "restaurantDescription": "Toki restaurant in Jeddah offers the flavors of Chinese cuisine rich in good taste, including sweet soy and chili."
+        }
+      ],
+      "attractions": [
+        {
+          "attractionId": "1",
+          "attractionName": "Billy Beez - Mall Of Arabia",
+          "attractionUrl": "billy-beez-mall-of-arabia",
+          "attractionImage1": "/img/attractions-1-1.jpg",
+          "attractionDescription": "Billy Beez is an ultimate indoor entertainment playground in mall settings, for kids aged 3-12 years offering a variety of features, from slides of trampolines, tunnels of towers. It is one of a kind soft play adventure land that sets of the standard in providing safe, healthy and most important providing fun, entertainment for children and family bonding."
+        },
+        {
+          "attractionId": "2",
+          "attractionName": "Al Rahma Floating Mosque",
+          "attractionUrl": "al-rahma-floating-mosque",
+          "attractionImage1": "/img/attractions-2-1.jpeg",
+          "attractionDescription": "This glamorous construction, one of the most distinctive symbols of Jeddah. The Floating Mosque was built in 1985 on a water surface, with bases planted under the surface of the sea. It is marked by its bright white color and its turquoise dome which paints a wonderful scene especially when the sun shines on it to reflect the beauty of architecture."
+        },
+        {
+          "attractionId": "3",
+          "attractionName": "Jeddah Floating Club",
+          "attractionUrl": "jeddah-floating-club",
+          "attractionImage1": "/img/attractions-3-1.jpeg",
+          "attractionDescription": "At Bride of the Red Sea, new adventures and amazing explorations never end. That's why the Yacht Club, which covers an area of ​​122,000 square metres, is designed to receive international boats over 120 meters in length."
+        },
+        {
+          "attractionId": "4",
+          "attractionName": "The Art Promendate",
+          "attractionUrl": "the-art-promendate",
+          "attractionImage1": "/img/attractions-4-1.jpeg",
+          "attractionDescription": "You will enjoy a new space full of surprises called Art Promenade within the Jeddah waterfront, extending to the marina, a quiet residential area in front of the sea."
+        },
+        {
+          "attractionId": "5",
+          "attractionName": "The Art Promendate",
+          "attractionUrl": "the-art-promendate",
+          "attractionImage1": "/img/attractions-5-1.jpeg",
+          "attractionDescription": "On the waterfront in Jeddah, you can take wonderful pictures of the famous Jeddah model"
+        }
+      ],
+      "airports": [
+        {
+          "airportId": "1",
+          "airportName": "King Abdulaziz International Airport",
+          "airportUrl": "king-abdulaziz-international-airport",
+          "airportImage1": "/img/airports-1.jpg"
+        }
+      ],
+      "trainStations": [
+        {
+          "trainStationId": "1",
+          "trainStationName": "Airport Jeddah Station",
+          "trainStationUrl": "airport-jeddah-station",
+          "trainStationImage1": "/img/train-stations-1.jpg"
+        }
+      ]
+    }
+  ]
+}
