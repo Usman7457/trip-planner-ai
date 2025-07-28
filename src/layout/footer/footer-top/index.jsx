@@ -21,8 +21,8 @@ const FooterTop = () => {
       boxTitle: "Itineraries",
       URLText1: "Community Trips",
       URL1: "/community-trips",
-      URLText2: "Find Destinations",
-      URL2: "/destinations",
+      URLText2: "Sign In/Up",
+      URL2: "/login",
     },
   ];
   const footerHeading = "Funadiq Trip Planner";

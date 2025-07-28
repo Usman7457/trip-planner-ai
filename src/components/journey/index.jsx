@@ -22,7 +22,7 @@ const Journey = () => {
               className="group relative items-end overflow-hidden rounded-xl md:rounded-3xl flex h-[15rem] max-w-[50rem] md:h-[16rem]"
               style={{ transform: "none" }}
             >
-              <Link className="h-full w-full" to="/jeddah">
+              <Link className="h-full w-full" to="/community-trip-detail/jeddah">
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-gradient-to-t from-black/70 via-transparent via-40% to-black/40"></div>
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-transparent transition-colors duration-700 group-hover:bg-black/50"></div>
                 <img
@@ -76,7 +76,7 @@ const Journey = () => {
               className="group items-end overflow-hidden rounded-xl md:rounded-3xl relative flex h-[15rem] max-w-[50rem] md:h-[25rem]"
               style={{ transform: "none" }}
             >
-              <Link className="h-full w-full" to="/medina">
+              <Link className="h-full w-full" to="/community-trip-detail/medina">
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-gradient-to-t from-black/70 via-transparent via-40% to-black/40"></div>
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-transparent transition-colors duration-700 group-hover:bg-black/50"></div>
                 <img
@@ -133,7 +133,7 @@ const Journey = () => {
               className="group items-end overflow-hidden rounded-xl md:rounded-3xl relative flex h-[15rem] max-w-[50rem] md:h-[25rem]"
               style={{ transform: "none" }}
             >
-              <Link className="h-full w-full" to="/mecca">
+              <Link className="h-full w-full" to="/community-trip-detail/mecca">
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-gradient-to-t from-black/70 via-transparent via-40% to-black/40"></div>
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-transparent transition-colors duration-700 group-hover:bg-black/50"></div>
                 <img
@@ -187,7 +187,7 @@ const Journey = () => {
               className="group items-end overflow-hidden rounded-xl md:rounded-3xl relative flex h-[15rem] max-w-[50rem] md:h-[18rem]"
               style={{ transform: "none" }}
             >
-              <Link className="h-full w-full" to="/dammam">
+              <Link className="h-full w-full" to="/community-trip-detail/dammam">
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-gradient-to-t from-black/70 via-transparent via-40% to-black/40"></div>
                 <div className="absolute right-0 top-0 z-[20] h-full w-full bg-transparent transition-colors duration-700 group-hover:bg-black/50"></div>
                 <img

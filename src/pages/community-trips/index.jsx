@@ -15,7 +15,7 @@ const CommunityTrips = () => {
   useEffect(() => {
     const getTripData = async () => {
       try {
-        const apiData = await fetch("http://localhost:3001/community-trips");
+        const apiData = await fetch("http://localhost:5000/api/community-trips/");
         const data = await apiData.json();
         setTripData(data);
         setFilteredTrips(data);

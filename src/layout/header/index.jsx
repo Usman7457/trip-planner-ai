@@ -67,14 +67,6 @@ const Header = () => {
               Funadiq Trip Planner
             </h1>
           </Link>
-          <div className="flex">
-            <Link
-              className="cursor-pointer rounded-full px-4 py-1.5 hover:bg-gray-100 hidden md:block"
-              to="/destinations"
-            >
-              Explore Saudi Arabia
-            </Link>
-          </div>
         </div>
         <ul className="ml-5 flex gap-2">
           <li

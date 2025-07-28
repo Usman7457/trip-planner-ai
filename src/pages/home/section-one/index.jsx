@@ -21,7 +21,7 @@ const SectionOne = () => {
               </p>
               <Link
                 className="mx-auto flex items-center gap-2 rounded-full bg-[#00501E] px-8 py-3 text-xl text-white transition-colors hover:bg-[#016C23]"
-                to="/trip"
+                to="/community-trips"
               >
                 <svg
                   aria-hidden="true"
@@ -40,7 +40,7 @@ const SectionOne = () => {
                     d="M19 14c-1.654 0-3 1.346-3 3c0 3.188 3 5 3 5s3-1.813 3-5c0-1.654-1.346-3-3-3m0 4.5a1.5 1.5 0 1 1 .001-3.001A1.5 1.5 0 0 1 19 18.5"
                   ></path>
                 </svg>
-                Create a new trip
+                Community Trips
               </Link>
             </div>
             <img

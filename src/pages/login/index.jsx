@@ -53,7 +53,7 @@ const Login = () => {
                 try {
                   // Fetch all users to check if the email exists
                   const response = await axios.get(
-                    "http://localhost:3001/users"
+                    "http://localhost:5000/api/users"
                   );
                   const users = response.data;
 

@@ -1,0 +1,134 @@
+[
+    {
+      "id": "1",
+      "tripName": "Riyadh, Saudi Arabia",
+      "tripImage": "/img/riyadh.png",
+      "tripUrl": "riyadh",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-1.png",
+      "days": "8",
+      "totalLikes": "30"
+    },
+    {
+      "id": "2",
+      "tripName": "Dammam, Saudi Arabia",
+      "tripImage": "/img/dammam.jpg",
+      "tripUrl": "dammam",
+      "tripDescription": "Join me on an exciting 8-day journey through São Paulo, Brazil's bustling metropolis. Discover hidden gems, indulge in delicious cuisine, and immerse yourself in the rich culture of this vibrant city.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-2.png",
+      "days": "8",
+      "totalLikes": "18"
+    },
+    {
+      "id": "3",
+      "tripName": "Taif, Saudi Arabia",
+      "tripImage": "/img/taif.jpg",
+      "tripUrl": "taif",
+      "tripDescription": "Experience the best of Los Angeles in just 3 days! Explore iconic landmarks like Griffith Park, Hollywood Walk of Fame, and Santa Monica Pier. Get ready for thrilling rides at Universal Studios Hollywood and don't miss the chance to see the famous Hollywood Sign.",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-3.png",
+      "days": "3",
+      "totalLikes": "16"
+    },
+    {
+      "id": "4",
+      "tripName": "Jeddah, Saudi Arabia",
+      "tripImage": "/img/jeddah.jpg",
+      "tripUrl": "jeddah",
+      "tripDescription": "Join me on an exciting 10-day journey through Tokyo, where we'll visit iconic landmarks, indulge in delicious cuisine, and immerse ourselves in the vibrant culture of Japan's capital city.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-4.jpeg",
+      "days": "10",
+      "totalLikes": "10"
+    },
+    {
+      "id": "5",
+      "tripName": "Tabuk, Saudi Arabia",
+      "tripImage": "/img/tabuk.jpg",
+      "tripUrl": "tabuk",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-5.jpeg",
+      "days": "7",
+      "totalLikes": "8"
+    },
+    {
+      "id": "6",
+      "tripName": "Hail, Saudi Arabia",
+      "tripImage": "/img/hail.jpg",
+      "tripUrl": "hail",
+      "tripDescription": "Embark on an unforgettable journey through Budapest, a city that seamlessly blends history, culture, and vibrant energy. From relaxing in the Széchenyi Thermal Bath to marveling at the grandeur of the Hungarian Parliament Building, each day promises new adventures and discoveries. Get ready to immerse yourself in the charm of the Pearl of the Danube!",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-6.png",
+      "days": "4",
+      "totalLikes": "7"
+    },
+    {
+      "id": "7",
+      "tripName": "Al Khobar, Saudi Arabia",
+      "tripImage": "/img/al-khobar.jpg",
+      "tripUrl": "al-khobar",
+      "tripDescription": "Embark on an exciting 8-day journey through the vibrant city of Seoul, South Korea. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich culture of this captivating destination.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-7.png",
+      "days": "3",
+      "totalLikes": "7"
+    },
+    {
+      "id": "8",
+      "tripName": "Buraydah, Saudi Arabia",
+      "tripImage": "/img/buraydah.jpg",
+      "tripUrl": "buraydah",
+      "tripDescription": "Join me on a thrilling 3-day adventure in Rome, where we'll explore iconic landmarks like the Colosseum and Pantheon, indulge in delicious Italian cuisine, and immerse ourselves in the rich history and culture of this magnificent city.",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-8.png",
+      "days": "5",
+      "totalLikes": "5"
+    },
+    {
+      "id": "9",
+      "tripName": "Al Jubail, Saudi Arabia",
+      "tripImage": "/img/al-jubail.jpg",
+      "tripUrl": "al-jubail",
+      "tripDescription": "Embark on a thrilling 5-day journey through the enchanting city of Oaxaca, Mexico. Immerse yourself in the rich culture, explore ancient ruins, indulge in delicious cuisine, and experience the vibrant atmosphere of this captivating destination.",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-9.png",
+      "days": "7",
+      "totalLikes": "18"
+    },
+    {
+      "id": "10",
+      "tripName": "Abha, Saudi Arabia",
+      "tripImage": "/img/abha.jpg",
+      "tripUrl": "abha",
+      "tripDescription": "Embark on a thrilling 7-day adventure in Prague, Czech Republic. Explore iconic landmarks, indulge in delicious cuisine, and immerse yourself in the rich history and culture of this enchanting city.",
+      "authorName": "Abdul Samad",
+      "authorImage": "/img/name-10.jpeg",
+      "days": "6",
+      "totalLikes": "4"
+    },
+    {
+      "id": "11",
+      "tripName": "Al Bahah, Saudi Arabia",
+      "tripImage": "/img/al-bahah.jpg",
+      "tripUrl": "al-bahah",
+      "tripDescription": "Join me on a 6-day adventure in Cartagena, Colombia, as I explore its rich history and soak up the sun on its beautiful beaches. From the iconic Monumento India Catalina to the historic Castle San Felipe de Barajas, this itinerary is packed with fascinating landmarks and breathtaking views. Don't miss out on the vibrant Plaza de Santo Domingo and the relaxing Playa De Bocagrande. Get ready for an unforgettable trip!",
+      "authorName": "Abdul Wadood",
+      "authorImage": "/img/name-11.jpeg",
+      "days": "6",
+      "totalLikes": "4"
+    },
+    {
+      "id": "12",
+      "tripName": "Yanbu, Saudi Arabia",
+      "tripImage": "/img/yanbu.png",
+      "tripUrl": "yanbu",
+      "tripDescription": "Join me on a 6-day adventure in Cartagena, Colombia, as I explore its rich history and soak up the sun on its beautiful beaches. From the iconic Monumento India Catalina to the historic Castle San Felipe de Barajas, this itinerary is packed with fascinating landmarks and breathtaking views. Don't miss out on the vibrant Plaza de Santo Domingo and the relaxing Playa De Bocagrande. Get ready for an unforgettable trip!",
+      "authorName": "Abdul Jabbar",
+      "authorImage": "/img/name-12.png",
+      "days": "6",
+      "totalLikes": "10"
+    }
+  ]
